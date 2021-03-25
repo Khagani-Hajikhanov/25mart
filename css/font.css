@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'font1';
+    src: url(../font/static/f1.ttf);
+}
+
+@font-face{
+    font-family: 'font2';
+    src: url(../font/static/f2.ttf);
+}
+
+@font-face{
+    font-family: 'font3';
+    src: url(../font/static/f3.ttf);
+}
